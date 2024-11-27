@@ -26,7 +26,7 @@ int main() {
 	
 	start:
 		printf("\n\t\t\t+------------------+\n");
-		printf("\t\t\t| PROGRAM KARYAWAN |");
+		printf("\t\t\t| PROGRAM KARYAWAN 123 |");
 		printf("\n\t\t\t+------------------+\n");
 		
 		awal:
